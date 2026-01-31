@@ -45,8 +45,10 @@ Repositório central dos meus estudos e projetos práticos.
 ---
 
 ## 📈 GitHub Stats
-![Cassio's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassioesteves&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cassioesteves&layout=compact&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cassioesteves&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassioesteves&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
 
 ---
 ⭐️ *Sinta-se à vontade para explorar meus repositórios e entrar em contato!*
