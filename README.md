@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil! Sou um profissional apaixonado por tecnologia e dados, 
 
 <div align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM3MxM2QzM3MxM2QzM3MxM2QzM3MxM2QzM3M/26tn33aiTi1jbp6x2/giphy.gif">
+    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias</h1>
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="postgresql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
