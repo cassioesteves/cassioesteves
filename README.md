@@ -6,49 +6,6 @@ Bem-vindo ao meu perfil! Sou um profissional apaixonado por tecnologia e dados, 
 
 ---
 
-<div align="center">
-  <!-- GitHub Activity Graph (Working Service) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassioesteves&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-<br>
-
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="postgresql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-    <img align="center" height="30" width="40" alt="microsoftsqlserver-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
-    <img align="center" height="30" width="40" alt="mongodb-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
-    <img align="center" height="30" width="40" alt="sqlite-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> 
-    <img align="center" height="30" width="40" alt="oracle-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
-    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-    <img align="center" height="30" width="40" alt="azure-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-    <img align="center" height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" height="30" width="40" alt="ubuntu-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-    <img align="center" height="30" width="40" alt="vscode-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="kafka-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
-  </div>
-</div>
-
-<br>
-
----
-
-## 📚 Projetos em Destaque
-
-### 🏗️ [Pós-Graduação em Engenharia e Arquitetura de Dados](https://github.com/cassioesteves/pos-graduacao-engenharia-arquitetura-dados)
-Repositório central dos meus estudos e projetos práticos.
-*   **Pipeline de Streaming (Real-time)**: Processamento de vendas e-commerce com **Flink** e **Kafka**.
-*   **Processamento Big Data**: Análise de milhões de CNPJs públicos com **Spark** e otimização **Parquet**.
-*   **Orquestração ETL**: Pipeline automatizado de ingestão (S3 -> Postgres) com **Apache Airflow**.
-
----
-
 ## 🛠️ Tech Stack e Ferramentas
 
 ### ☁️ Cloud & Infraestrutura
@@ -74,6 +31,53 @@ Repositório central dos meus estudos e projetos práticos.
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📚 Projetos em Destaque
+
+### 🏗️ [Pós-Graduação em Engenharia e Arquitetura de Dados](https://github.com/cassioesteves/pos-graduacao-engenharia-arquitetura-dados)
+Repositório central dos meus estudos e projetos práticos.
+*   **Pipeline de Streaming (Real-time)**: Processamento de vendas e-commerce com **Flink** e **Kafka**.
+*   **Processamento Big Data**: Análise de milhões de CNPJs públicos com **Spark** e otimização **Parquet**.
+*   **Orquestração ETL**: Pipeline automatizado de ingestão (S3 -> Postgres) com **Apache Airflow**.
+
+---
+
+<div align="center">
+  <!-- GitHub Activity Graph (Legacy Service Replacement) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cassioesteves&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="40%">
+      <img width="80%" alt="coding-time" src="code.gif">
+    </td>
+    <td align="center" width="40%">
+      <h1>Melhores Tecnologias</h1>
+      <div align="center">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
